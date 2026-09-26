@@ -1,0 +1,5 @@
+qa/
+research/
+qa_*.png
+*.normalized.md
+.DS_Store
