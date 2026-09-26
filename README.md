@@ -37,4 +37,8 @@
 
 ## 狀態
 
-**僅本機完成，未發布。** 未初始化獨立 Git repository，未建立遠端，未 commit、未 push。`qa/` 與 `research/` 目錄依規則不預設公開。若日後需要發布，請依 `skills/deep-guide-html/references/publishing.md` 規則另行確認發布範圍與帳號後執行。
+**已發布。** 依專案既有慣例（一篇一個獨立 GitHub repo），本機已初始化獨立 `.git`，只提交 `.gitignore`／`README.md`／`sam-altman-un-security-council-ai-risks.md`／`index.html`／`images/`，`qa/` 與 `research/` 依規則不公開。
+
+- 正式網址：https://github.com/lushinshang/sam-altman-un-security-council-ai-risks
+- 發布日期：2026-09-27
+- 若需啟用 GitHub Pages，可在 repo 設定中開啟 `main` 分支的 Pages 服務。
