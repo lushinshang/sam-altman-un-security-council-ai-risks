@@ -105,6 +105,9 @@
     box-shadow:0 8px 28px rgba(0,0,0,0.10);
     cursor:zoom-in;
   }
+  @media (max-width:640px){
+    figure.hero-figure img{ aspect-ratio:9/16; }
+  }
   figure.hero-figure figcaption{
     font-size:12.5px;
     color:var(--muted);
@@ -264,7 +267,10 @@
 </header>
 
 <figure class="hero-figure">
-  <img src="images/cover-16x9.png" alt="聯合國安理會會議廳內，三位科技公司代表背對讀者站在講台前，面對圍坐成馬蹄形的各國代表，講台上方浮現抽象的神經網路與地球連線圖像">
+  <picture>
+    <source media="(max-width: 640px)" srcset="images/cover-9x16.png">
+    <img src="images/cover-16x9.png" alt="聯合國安理會會議廳內，三位科技公司代表背對讀者站在講台前，面對圍坐成馬蹄形的各國代表，講台上方浮現抽象的神經網路與地球連線圖像">
+  </picture>
   <figcaption>2026 年 9 月 23 日，OpenAI、Anthropic、Hugging Face 三位執行長罕見同台，向聯合國安理會示警 AI 風險。（示意圖）</figcaption>
 </figure>
 
