@@ -10,7 +10,7 @@
 
 - `sam-altman-un-security-council-ai-risks.md` — 正式繁體中文深度導讀（Markdown）
 - `index.html` — 發布就緒 HTML（雙擊即可用瀏覽器開啟，無需建置流程）
-- `images/cover-16x9.png` — 封面概念圖（1664×936，16:9，AI 生成插畫，無文字/標誌）
+- `images/cover-16x9.png` + `images/cover-9x16.png` — 封面概念圖（16:9 桌面版／9:16 手機版，AI 生成插畫，無文字/標誌）
 - `images/hf-timeline.png` + `-mobile.png` — Hugging Face 事件完整時間軸資訊圖
 - `images/governance-fault-lines.png` + `-mobile.png` — AI 治理三條裂痕比較圖
 - `images/three-ceos-fears.png` + `-mobile.png` — 三位技術巨頭立場對比圖
