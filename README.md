@@ -11,8 +11,11 @@
 - `sam-altman-un-security-council-ai-risks.md` — 正式繁體中文深度導讀（Markdown）
 - `index.html` — 發布就緒 HTML（雙擊即可用瀏覽器開啟，無需建置流程）
 - `images/cover-16x9.png` — 封面概念圖（1664×936，16:9，AI 生成插畫，無文字/標誌）
-- `images/hf-timeline.png` + `images/hf-timeline-mobile.png` — Hugging Face 事件完整時間軸資訊圖（16:9 桌面版／9:16 手機版）
-- `images/governance-fault-lines.png` + `images/governance-fault-lines-mobile.png` — AI 治理三條裂痕比較圖（16:9 桌面版／9:16 手機版）
+- `images/hf-timeline.png` + `-mobile.png` — Hugging Face 事件完整時間軸資訊圖
+- `images/governance-fault-lines.png` + `-mobile.png` — AI 治理三條裂痕比較圖
+- `images/three-ceos-fears.png` + `-mobile.png` — 三位技術巨頭立場對比圖
+- `images/france-four-pillars.png` + `-mobile.png` — 法國治理四大支柱圖
+- `images/global-south-demands.png` + `-mobile.png` — 全球南方三國訴求對比圖
 - `qa/` — HTML 驗收紀錄（結構、桌面/手機截圖、功能、無障礙、外部連結檢查）
 - `research/` — 逐字稿完整整理、來源查證帳本、圖像提示詞、工作流程紀錄（僅本機保留）
 
@@ -39,6 +42,6 @@
 
 **已發布。** 依專案既有慣例（一篇一個獨立 GitHub repo），本機已初始化獨立 `.git`，只提交 `.gitignore`／`README.md`／`sam-altman-un-security-council-ai-risks.md`／`index.html`／`images/`，`qa/` 與 `research/` 依規則不公開。
 
-- 正式網址：https://github.com/lushinshang/sam-altman-un-security-council-ai-risks
-- 發布日期：2026-09-27
-- 若需啟用 GitHub Pages，可在 repo 設定中開啟 `main` 分支的 Pages 服務。
+- Repo：https://github.com/lushinshang/sam-altman-un-security-council-ai-risks
+- 網頁（GitHub Pages）：https://lushinshang.github.io/sam-altman-un-security-council-ai-risks/
+- 發布日期：2026-09-27（後續補充 3 張段落資訊圖表）
